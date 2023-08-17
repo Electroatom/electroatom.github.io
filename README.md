@@ -1,12 +1,16 @@
 # The Revolution of the Electroatomic Model
 The content of this post provides a review of the evolution of atomic models throughout history and highlights the importance of constructing a “Periodic System” (PS) of electroatoms instead of the current Rutherford-Bohr planetary model. In this new approach, a unique “electroatom” is the indivisible elementary particle, and the periodic system is constructed based on the volumetric electric density of the electroatoms. The content also emphasizes that electricity and electric matter should be considered as a self-organized and discrete electric substance, rather than separate particles.
 
+![Electroatom 2D](electroatom-1.jpg)
+
 In summary, the current Rutherford-Bohr model and other atomic models are insufficient, and a new Periodic System of electroatoms should be built for a more precise and comprehensive understanding of electric nature. The proposed approach promises to provide a unified field theory that corresponds to reality and is not based on unverifiable assumptions or conjectures.
 
 # Introduction
 Throughout the history of science, the model of the atom has undergone various modifications and proposals. From the early attempts to understand the structure of atoms in the 19th century to the more modern models based on quantum mechanics, scientists have sought precision and deep understanding of the smallest particle of matter.
 
 In this article, we will explore a revolutionary view of the electroatomic model based on the RUS (Stable Equivalent) Periodic System, an approach that relies on the self-taught distribution of electroatoms in periods (homogeneous) and rows (heterogeneous), and proposes a distinct interpretation of electricity and elementary particles.
+
+![Electroatom 3D](electroatom-2.jpg)
 
 # Origin of Atomic Models
 From the 19th century to the early 20th century, different scientists proposed models to describe the structure of atoms. In 1902, J.J. Thomson presented a model in which positive charge was uniformly distributed throughout the atom, and electrons “floated” within this sphere. On the other hand, F. Lenard suggested that there were no separate electrons and positive charges in the atom.
