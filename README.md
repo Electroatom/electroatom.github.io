@@ -43,3 +43,8 @@ As science continues to advance, it is essential to keep an open mind and be wil
 
 Here is the complete list of atomic forms: https://electroatom.github.io/en/
 .
+
+Raúl Peláez © 2023 All rights reserved.
+
+![2001 Electroatom Crop Circle](electroatom-cropcirlce-2001.jpg)
+...
